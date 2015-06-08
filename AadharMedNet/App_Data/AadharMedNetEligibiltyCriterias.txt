@@ -1,0 +1,5 @@
+1;Degree level|Degree field|Licensure/Certification|Experience|Key Skills|Computer skills|Technical skills
+2;Register yourself with a medical agency/hospital
+3;Get a valid approval certificate for the proposed organ donation
+5;You must have delivered at least one child of your own|You must be between age of 21-38|You must be non-smoker and non drug user|You must not be significantrly overweight nor underweight|You must live in a stable,non smoking houses and must possess reliable transportation|A full background check can be conducted on you and your partner if applicable|Full medical examination will be performed to determine your suitability, including an STD screen, drug screen, Hepatitis test and a pelvic ultrasound|You must not have any previous pregnancy complications
+6;You must be between the age of 18 and 38|You must have an acceptable medical profile|You must present your semen samples|You must pass rigorous psychological and genetic screenings|You must provide a suitable medical history of your blood relatives

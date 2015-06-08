@@ -1,0 +1,6 @@
+999999990019;atorvastation|40 mg|qhs|Hypercholesterolemia
+999999990026;ipratrotium|NA|BID|Emplhysema-COPD
+999999990042;Nucleoside|Nucleotide Reverse Transcriptase|NA|NA|NA
+999999990057;NA|NA|NA|NA|NA
+999922220032;NA|NA|NA|NA|NA
+999922220013;NA|NA|NA|NA|NA

@@ -1,0 +1,130 @@
+﻿#cssmenu {
+  background: #0BD3FF;
+  border-bottom-left-radius:7px;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  /*line-height:0px;*/
+  width: 100%;
+}
+#cssmenu li {
+  font-family:Gisha;
+  font-size: large;  
+  margin:0;  
+  padding: 10px;
+  list-style: none;
+}
+#cssmenu a {
+  background: #0BD3FF;
+  border-bottom: 1px solid white;
+  color: white;
+  display: block;
+  margin: 0;
+  /*padding: 8px 12px;*/
+  text-decoration:none;
+  font-weight: normal;
+}
+#cssmenu a:hover {
+    background: #FFFFFF url("images/hover.gif") no-repeat left center;
+    color: #0BD3FF;
+    /*padding-bottom: 8px;*/
+}
+
+.box {
+    width: 90%;    
+    height: 98%;
+    
+    background: #FFFFFF;
+    border-radius: 7px;
+    box-shadow: 0px 3px 10px 1px rgba(0, 0, 0, 0.9);
+    color: #0BD3FF;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    
+
+}
+
+.bar {
+    width: 100%;
+    height:31px;    
+    border-top-left-radius:7px;
+    border-top-right-radius:7px;
+    background: #00B3D9;        
+    color: white;
+    text-align: right;
+    font-family:Gisha;
+    font-size:large;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+.activeLink {
+    background:white; 
+    color:#0BD3FF;
+}
+
+.ddl
+{
+    border:2px solid #0BD3FF;            
+    padding:5px;            
+    text-indent: 0.01px;/*In Firefox*/    
+}
+
+.btn{
+  border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    margin: 10px auto;
+    padding: 10px;
+    background: #0BD3FF;    
+    border-radius:3px;
+    outline:none;
+    color:#FFFFFF;
+    font-weight:700;
+    letter-spacing:0.125em;
+    text-align:center;
+    text-transform:uppercase;
+}
+ 
+.btn:hover{
+  background:#0BD3FF;
+  color:#FFFFFF;
+}
+ 
+.btn:active{
+  background:#FACC2E;
+  color:#333;
+}
+
+.field{
+  width:50%;
+  margin:10px auto;
+  padding:10px;
+  background:#FFFFFF;
+  border:solid;
+  border-width: 2px;
+  border-color:#0BD3FF;
+  /*box-shadow: 0px 1px 0px 0px #111;*/
+  border-radius:3px;
+  outline:none;
+  color:#2C3E50;
+  font-weight:700;
+  letter-spacing:0.125em;  
+  /*text-transform:uppercase;*/
+}
+  
+::-webkit-input-placeholder{ /* WebKit browsers */
+  color:#5A5A5A;
+}
+:-moz-placeholder{ /* Mozilla Firefox 4 to 18 */
+  color:#5A5A5A;
+}
+::-moz-placeholder{ /* Mozilla Firefox 19+ */
+  color:#5A5A5A;
+}
+:-ms-input-placeholder{ /* Internet Explorer 10+ */
+  color:#5A5A5A;
+}
